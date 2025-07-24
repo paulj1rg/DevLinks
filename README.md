@@ -41,4 +41,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ---
 
 Feito com ♥ por Paulo Jorge
+
 [Participe da nossa comunidade RockSeat!](https://discord.gg/rocketseat)
