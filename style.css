@@ -27,7 +27,7 @@
 
 body {
   background: var(--bg-background) no-repeat top center/cover;
-  transition: background  5s ease-in-out;
+  height: 100vh;
 }
 
 
@@ -162,4 +162,14 @@ footer {
   text-align: center;
   padding: 24px 0;
   font-size: 16px;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --bg-background: url(./assets/assets/bg-desktop.jpg);
+  }
+
+  .light {
+    --bg-background: url(./assets/assets/bg-desktop-light.jpg);
+  }
 }
